@@ -299,7 +299,7 @@ npm start
 ```
  This bot is not a official bot by Whatsapp INC So if you want to use it then feel free to do so.
  Your WhatsApp Number can be banned by Whatsapp as it is not official
- Zero-Two-MD bot is still in the development stage, so there can be few bugs.Feel free to report that to us.
+ Hitman-DK-MD bot is still in the development stage, so there can be few bugs.Feel free to report that to us.
 ```
 
 ## Developers
