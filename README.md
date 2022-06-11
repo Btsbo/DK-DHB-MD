@@ -304,9 +304,8 @@ npm start
 
 ## Developers
 
-[![XEON](https://github.com/dgxeon.png?size=80)](https://github.com/dgxeon) | [![Fantox](https://github.com/fantox001.png?size=100)](https://github.com/fantox001) | [![Sam Pandey](https://github.com/sampandey001.png?size=109)](https://github.com/sampandey001) | [![ISSA](https://github.com/issa2001.png?size=80)](https://github.com/issa2001) | [![Aaditya](https://github.com/addycracker.png?size=80)](https://github.com/addycracker)
 ----|----|----|----|----
-[XEON](https://wa.me/2844132352) | [Dk](https://wa.me/2784413235) | [dk sbu](https://wa.me/27630164057) | [dk](https://wa.me/27630164057) | [Aditya](https://wa.me/27844132352)
+[Sbu](https://wa.me/2844132352) | [Dk](https://wa.me/2784413235) | [dk sbu](https://wa.me/27630164057) | [dk](https://wa.me/27630164057) | [Aditya](https://wa.me/27844132352)
 Base Bot  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules, | Modules, Idea | Modules
 
 
@@ -318,7 +317,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 Feel free to contribute.
 
 ### Disclaimer
-This is an open source WhatsApp bot based on Multi Device created by [`@SamPandey001`](https://github.com/SamPandey001) & [`@fantox`](https://github.com/FantoX001) working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys). Do not recode it without notifying the owners otherwise you will be petitioned for fraud & copyright infringement!
+This is an open source WhatsApp bot based on Multi Device!
 
 ## Help
 Give a ⭐ to this repo if it helped you.
