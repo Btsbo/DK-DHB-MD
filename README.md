@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/104565822/173171348-e3c269ae-2302-4356
   <summary>List (Touch Here)</summary>
 <p>
 
-     🍁 Group Menu 🍁 
+     🚀 Group Menu 🚀 
   -  ${prefix}grouplink
   -  ${prefix}ephemeral [option]
   -  ${prefix}setgrouppp
@@ -84,7 +84,7 @@ https://user-images.githubusercontent.com/104565822/173171348-e3c269ae-2302-4356
   -  ${prefix}promote @user
   -  ${prefix}demote @user
   
-    🍁 Sticker Menu 🍁 
+    🔥 Sticker Menu 🔥 
   -  ${prefix}cry
   -  ${prefix}lick
   -  ${prefix}hug
@@ -109,7 +109,7 @@ https://user-images.githubusercontent.com/104565822/173171348-e3c269ae-2302-4356
   -  ${prefix}megumin
   -  ${prefix}handhold
 
-    🍁 Downloader Menu 🍁 
+    🎉 Downloader Menu 🎉 
   -  ${prefix}yt [url/name]
   -  ${prefix}song [url/name]
   -  ${prefix}video [url/name]
@@ -127,7 +127,7 @@ https://user-images.githubusercontent.com/104565822/173171348-e3c269ae-2302-4356
   -  ${prefix}joox [query]
   -  ${prefix}soundcloud [url]
   
-    🍁 Search Menu 🍁 
+    🌹 Search Menu 🌹 
   -  ${prefix}play [query]
   -  ${prefix}yts [query]
   -  ${prefix}google [query]
@@ -136,7 +136,7 @@ https://user-images.githubusercontent.com/104565822/173171348-e3c269ae-2302-4356
   -  ${prefix}wallpaper [query]
   -  ${prefix}ytsearch [query]
   
-    🍁 Random Menu 🍁 
+    🎊 Random Menu 🎊 
   -  ${prefix}coffee
   -  ${prefix}couplepp
   -  ${prefix}waifu
@@ -145,13 +145,13 @@ https://user-images.githubusercontent.com/104565822/173171348-e3c269ae-2302-4356
   -  ${prefix}bj (NSFW)
   -  ${prefix}Nwaifu (NSFW)
   
-    🍁 Fun Menu 🍁 
+    💙 Fun Menu 💙 
   -  ${prefix}couple
   -  ${prefix}mysoulmate
   -  ${prefix}math [mode] 
   -  ${prefix}quiz [mode]
   
-    🍁 Voice Changer Menu 🍁 
+    🚀 Voice Changer Menu 🚀 
   -  ${prefix}bass
   -  ${prefix}blown
   -  ${prefix}deep
@@ -164,7 +164,7 @@ https://user-images.githubusercontent.com/104565822/173171348-e3c269ae-2302-4356
   -  ${prefix}slow
   -  ${prefix}squirrel
 
-    🍁 Text Pro Menu 🍁  (Beta Stage)
+    🔥 Text Pro Menu 🔥  (Beta Stage)
   -  ${prefix}3dchristmas
   -  ${prefix}candy
   -  ${prefix}sparklechristmas
@@ -205,7 +205,7 @@ https://user-images.githubusercontent.com/104565822/173171348-e3c269ae-2302-4356
   -  ${prefix}blackpink
   -  ${prefix}gluetext
   
-    🍁 Horoscope Menu 🍁 
+    🚀 Horoscope Menu 🚀 
   -  ${prefix}hockeynumber
   -  ${prefix}dreammeaning
   -  ${prefix}namemeaning
@@ -237,7 +237,7 @@ https://user-images.githubusercontent.com/104565822/173171348-e3c269ae-2302-4356
   -  ${prefix}zodiac
   -  ${prefix}shio
 
-    🍁 Convert Menu 🍁 
+    🌹 Convert Menu 🌹 
   -  ${prefix}photo
   -  ${prefix}imagesticker
   -  ${prefix}toimg
@@ -256,7 +256,7 @@ https://user-images.githubusercontent.com/104565822/173171348-e3c269ae-2302-4356
   -  ${prefix}styletext
   -  ${prefix}smeme
    
-    🍁 Misc Menu 🍁 
+    🎊 Misc Menu 🎊 
   -  ${prefix}ping
   -  ${prefix}owner
   -  ${prefix}donate
